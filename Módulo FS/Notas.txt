@@ -1,0 +1,19 @@
+Modulos FS
+
+Operaciones utiles:
+  - Leer un archivo
+  - Escribir
+  - Crear
+  - Eliminar
+  - Renombrar
+  - Verificar
+  - Leer el contenido
+  - Obtener las estadisticas
+
+
+  Todos los métodos de este módulo son asíncronos por defectos,
+  pero puedes escoger versiones síncronas de estos moétodos agregando Sync a sus nombres.
+
+  Ej:
+    - fs.rename();
+    - fs.renameSyncs();

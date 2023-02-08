@@ -1,0 +1,5 @@
+Modulo OS
+
+  Contiene funcionalidad para obtener información
+  sobre el sistema operativo en el cual se ejecuta
+  la aplicación.

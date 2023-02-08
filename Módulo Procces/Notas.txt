@@ -1,0 +1,2 @@
+Modulo process:
+  Provee información sobre el proceso de Node.js actual y controla el comportamiento del mismo.

@@ -1,0 +1,8 @@
+
+Modulo Timers
+  Contiene funciones que ejecutan código después de un tiempo determinado.
+
+  Funciones útiles:
+    - setTimeout: ejecuta una función después de un tiempo en milisegundos
+    - setInmediate: ejecuta una función inmediatamente después de que el código se ejecute
+    - setInterval: ejecuta una función cada cierto tiempo en milisegundos (Infinito hasta que se detenga)
